@@ -1,0 +1,28 @@
+name: devinjameson
+favicon: null
+layout_spectrum: 0.25172
+typography_spectrum: 0.43222
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#227386'
+    - '#609a9d'
+    - '#87a7a2'
+    - '#9eb6a9'
+    - '#075472'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.5
+purpose: []
