@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[devinjameson]]></title>
         <description><![CDATA[devinjameson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/devinjameson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 02:40:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 02:40:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/devinjameson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09628405-7d6f-45ee-829e-91a5399b76d0.jpg">]]></description>
-            <link>undefinedsome-polaroids/index.html</link>
+            <link>https://thegrid.ai/devinjameson/some-polaroids/index.html</link>
             <guid isPermaLink="false">74eb506f-9151-4a77-b1de-123f4dd56334</guid>
-            <pubDate>Fri, 15 Apr 2016 02:39:39 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2016 02:39:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
